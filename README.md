@@ -7,7 +7,7 @@ A beginner-friendly, menu-driven **Student Attendance Register** developed using
 - **Project Name:** Student Attendance Register
 - **Language:** C++
 - **Application Type:** Console-based application
-- **Standard:** C++11 or later (C++17 recommended)
+- **Standard:** C++11 
 - **Storage:** Local text files
 
 ## Objectives
@@ -47,7 +47,7 @@ Student-Attendance-Register/
 ├── attendance.txt
 ├── README.md
 └── screenshots/
-    └── (add your application screenshots here)
+    
 ```
 
 ## Requirements
