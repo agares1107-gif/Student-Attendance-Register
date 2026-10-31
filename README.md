@@ -106,9 +106,3 @@ The program creates or updates these files in its current working directory. Kee
 ## Conclusion
 
 The Student Attendance Register demonstrates basic C++ programming concepts such as structures, functions, vectors, loops, conditional statements, and file handling. It provides a simple way to maintain student details and daily attendance records.
-
-## Author
-
-**Your Name**
-
-> Replace this with your name before submitting the project.
